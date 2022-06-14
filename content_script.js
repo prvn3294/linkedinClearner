@@ -43,4 +43,3 @@ setInterval(() => {
 }, 2000);
 
 
-// https://viblo.asia/p/chrome-extension-communicating-between-popup-and-content-script-Qbq5QjQXKD8
